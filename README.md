@@ -3,7 +3,7 @@ UserJS for MyShows.ru
 
 ### Description ###
 
-Sort serials in alphabetic order on [](http://myshows.ru/profile/)
+Sort serials in alphabetic order on http://myshows.ru/profile/
 
 ### Installation ###
 
