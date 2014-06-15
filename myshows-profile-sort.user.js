@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name        MyShows: sort serials
-// @namespace   https://github.com/powerman/myshows.ru-user.js
+// @namespace   https://github.com/powerman/userjs-myshows
 // @description Sort serials in alphabetic order on myshows.ru
 // @include     http://myshows.ru/profile/
 // @match       http://myshows.ru/profile/
-// @downloadURL https://github.com/powerman/myshows.ru-user.js/raw/master/myshows-profile-sort.user.js
-// @updateURL   https://github.com/powerman/myshows.ru-user.js/raw/master/myshows-profile-sort.user.js
-// @version     2.2
+// @downloadURL https://github.com/powerman/userjs-myshows/raw/master/myshows-profile-sort.user.js
+// @updateURL   https://github.com/powerman/userjs-myshows/raw/master/myshows-profile-sort.user.js
+// @version     2.3
 // @grant       none
 // ==/UserScript==
 

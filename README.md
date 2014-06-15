@@ -17,5 +17,5 @@ Sort serials in alphabetic order on [](http://myshows.ru/profile/)
     * ***IE***: Install [Trixie](http://www.bhelpuri.net/Trixie/).
     * ***OPERA***: Follow instructions located on Opera's site: [User JS](http://www.opera.com/docs/userjs/).
     * ***SAFARI***: Install [NinjaKit](http://d.hatena.ne.jp/os0x/20100612/1276330696).
-2. Install the user script by clicking here: [myshows-profile-sort.user.js](https://github.com/powerman/myshows.ru-user.js/raw/master/myshows-profile-sort.user.js).
+2. Install the user script by clicking here: [myshows-profile-sort.user.js](https://github.com/powerman/userjs-myshows/raw/master/myshows-profile-sort.user.js).
 
