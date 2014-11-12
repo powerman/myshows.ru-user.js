@@ -6,7 +6,7 @@
 // @match       http://myshows.me/profile/
 // @downloadURL https://github.com/powerman/userjs-myshows/raw/master/myshows-profile-sort.user.js
 // @updateURL   https://github.com/powerman/userjs-myshows/raw/master/myshows-profile-sort.user.js
-// @version     3.0
+// @version     3.1
 // @grant       none
 // ==/UserScript==
 
@@ -46,5 +46,10 @@ window.addEventListener('load', function(){
 	var rate_handler = jQuery._data($('.rate-episode').get(0)).events.click[0].handler;
 	sort_shows();
 	$('.rate-episode').bind('click', rate_handler);
+	// from document.ready handler
+	$('div.seasonBlock').each(function () {
+		siteSeasonBlock = new SeasonBlock();
+		siteSeasonBlock.init($(this));
+	});
 
 }, false);
